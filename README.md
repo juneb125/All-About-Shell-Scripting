@@ -9,7 +9,7 @@ All of the basics you need to know about zsh, aimed towards macOS
 	* `ls` -- List items
 	* `cd` -- Change directory
 	* `pwd` -- Print working directory
-4. [Creating & Deleting Paths](#creating-&amp;-deleting-paths)
+4. [Creating & Deleting Paths](#creating--deleting-paths)
 	* `touch` -- Creates a file
  	* `mkdir` -- Makes a directory
   * `rm` -- Removes a file
